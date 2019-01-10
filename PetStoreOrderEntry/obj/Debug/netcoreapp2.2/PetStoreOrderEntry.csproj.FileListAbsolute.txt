@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\bin\Debug\netcoreapp2.2\PetStoreOrderEntry.deps.json
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\bin\Debug\netcoreapp2.2\PetStoreOrderEntry.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\bin\Debug\netcoreapp2.2\PetStoreOrderEntry.runtimeconfig.dev.json
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\bin\Debug\netcoreapp2.2\PetStoreOrderEntry.dll
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\bin\Debug\netcoreapp2.2\PetStoreOrderEntry.pdb
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.RazorAssemblyInfo.cache
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.RazorAssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.RazorTargetAssemblyInfo.cache
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.dll
+C:\Users\kevin\OneDrive\Documents\Web Development Practice\VisualStudio\Projects\PetStoreOrderEntry\PetStoreOrderEntry\obj\Debug\netcoreapp2.2\PetStoreOrderEntry.pdb
